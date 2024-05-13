@@ -13,8 +13,7 @@ const About = () => {
           <div className='left row'>
             <Heading title='Our Agency Story' subtitle='Check out our company story and work process' />
 
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+            <p>Welcome to Rent Up, your premier destination for hassle-free property rental solutions. At Rent Up, we understand that finding the perfect home or room to rent can be a daunting task. That's why we've crafted an intuitive platform that simplifies the rental process, putting convenience and choice at your fingertips.</p>
             <button className='btn2'>More About Us</button>
           </div>
           <div className='right row'>
